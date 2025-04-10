@@ -51,8 +51,8 @@ npm run electron:build
 ```
 
 ## 应用截图
-
-*[此处添加应用截图]*
+![](1d5f87bfc38a3f34200edfd849376be.png)
+![alt text](efb2e74fdee75e4872499da3ef71bc2.png)
 
 ## 使用指南
 
